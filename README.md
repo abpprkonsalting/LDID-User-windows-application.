@@ -24,7 +24,7 @@ This is the windows program for the client. In this specific version of the appl
 
 The working parameters would be (read from settings.txt):
 
-Par�metros:
+Parameters:
 
 	* Working Mode (modo):
 
