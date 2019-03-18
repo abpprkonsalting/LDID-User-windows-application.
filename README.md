@@ -42,13 +42,24 @@ Parameters:
     * Path of the user application program (Path_teleEEG).
 
 modo = 0;
+
 rango = 0;
+
 Servidor_LDID = NULL;
+
 Puerto_LDID = 0;
+
 Cantidad_servidores = 0;
+
 arreglo_nombres_servidores = NULL;
+
 tiempo_ldid = 0;
+
 intentos_ldid = 0;
+
 puerto_ovpn = 0;
+
 Path_ovpn = NULL;
+
 Path_teleEEG = NULL;
+
